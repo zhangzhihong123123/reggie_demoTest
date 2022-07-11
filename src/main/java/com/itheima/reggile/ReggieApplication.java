@@ -18,6 +18,7 @@ public class ReggieApplication {
         EmployeeServiceImpl bean = run.getBean(EmployeeServiceImpl.class);
         System.out.println(bean);
         log.info("项目启动成功");
+        log.info("项目启动成功");
     }
 
 
